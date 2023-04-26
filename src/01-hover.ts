@@ -12,3 +12,4 @@ onlyAcceptsJohn(object.name);
 // - object
 // - object.name
 // - function
+// - primitives, like string and number
